@@ -33,13 +33,12 @@ export default function Form1() {
         <br />
         <br />
         <label className="bold" htmlFor="preference">I prefer...</label>
-        <input id="preference" list="preferences" name="preference" />
-        <datalist id="preferences">
-            <option value="Dogs" />
-            <option value="Cats" />
-            <option value="Spiders" />
-            <option value="None are good" />
-        </datalist>
+        <select id="preferences" name="preferences">
+            <option value="dogs">Dogs</option>
+            <option value="cats">Cats</option>
+            <option value="spiders">Spiders</option>
+            <option value="none">None are good</option>
+        </select>
         <br />
         <br />
         <button>Submit</button>
