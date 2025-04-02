@@ -1,8 +1,10 @@
+import "./List2.css"
+
 export default function List2() {
     return (
         <>
             <p>List of some of my favorite directors:</p>
-            <ul>
+            <ul id={"list2"}>
                 <li>Akira Kurosawa</li>
                 <li>Christopher Nolan</li>
                 <li>Clint Eastwood</li>
