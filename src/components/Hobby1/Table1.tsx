@@ -1,5 +1,5 @@
 export default function Table1() {
-    return <table>
+    return <table id="romantable">
         <caption>Timeline of the Deleuzian lineage</caption>
         <tr>
             <th>Name</th>

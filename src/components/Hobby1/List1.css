@@ -1,0 +1,11 @@
+#romanlist > li:first-child {
+    color: #988208;
+}
+
+#romanlist > li:last-child {
+    color: #1bb563;
+}
+
+#romanlist {
+    background: #e4cdd6;
+}
