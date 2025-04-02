@@ -1,0 +1,13 @@
+
+#list2 {
+    font-family: Copperplate, Papyrus, fantasy;
+    list-style-type: square;
+    background: lightblue;
+
+}
+
+#list2 li {
+    background: lightpink;
+    color: blue;
+    margin: 20px;
+}
