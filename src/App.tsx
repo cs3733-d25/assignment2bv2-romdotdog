@@ -10,6 +10,7 @@ function App() {
       <Title />
       <Intro name1="Roman" name2="Ben" />
         <Hobby1 />
+        <hr />
         <Hobby2 />
     </>
   )

@@ -1,0 +1,26 @@
+body {
+    background-color: #a2deb9;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    text-align: center;
+}
+
+th, td {
+    border: 1px solid;
+}
+
+table {
+    border: 1px solid;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+img {
+    display: block;
+    margin: auto;
+}
+
+hr {
+    border: 2px solid blueviolet;
+}
